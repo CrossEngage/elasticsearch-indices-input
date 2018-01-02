@@ -1,0 +1,17 @@
+g_*.go
+/dist/
+
+# Binaries for programs and plugins
+elasticsearch-indices-input
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temp files
+*.tmp
+*.swp
+*.test
+*.out
+*.log
+*.json
